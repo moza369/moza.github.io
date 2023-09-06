@@ -1,2 +1,2 @@
 # moza.github.io
-nothig
+nothing
